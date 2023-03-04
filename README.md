@@ -1,4 +1,4 @@
-# data-mining-project
+# Predicting Smoking Status from Medical data
 
 Problem Setting: 
 The problem of smoking is a significant public health concern with far-reaching negative effects on individuals and society. Not only does smoking harm nearly every organ of the body and increase the risk of numerous diseases, such as lung cancer and heart disease, but it also reduces the life expectancy of smokers. Despite this, smoking remains a prevalent habit and the number of deaths caused by smoking is projected to reach 10 million by 2030, according to a World Health Organization report. Furthermore, evidence-based treatment options for smoking cessation, such as counseling, have been proposed and promoted but be ineffective and time-consuming for many physicians.
